@@ -1,0 +1,15 @@
+{
+  "name": "aegis-edge-nhai",
+  "version": "1.0.0",
+  "description": "Offline Biometric Core Module for NHAI Datalake 3.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "react-native-fast-crypto": "^2.2.0",
+    "watermelondb": "^0.27.0"
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "author": "Aegis Edge Team",
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,2 @@
+# Quantized TFLite edge model target asset (~20MB ceiling constraint). 
+# Actual binary payload will be linked via Git LFS during production prototype delivery.
