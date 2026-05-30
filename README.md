@@ -9,11 +9,11 @@
 Aegis Edge is a high-performance, edge-AI biometric ecosystem engineered explicitly to provide uninterrupted identity verification for NHAI field personnel operating within zero-network environments. Designed as a modular native drop-in component for the **Datalake 3.0** application, this solution processes face identification and multi-point passive/active anti-spoofing entirely client-side without any active cellular or data connection.
 
 ### ⚡ Technical Performance Commitments
-* **Zero-Network Isolation:** 100% computational execution on-device[cite: 1].
-* **Ultra-Lightweight Footprint:** Entire engine compressed to **16.8 MB**, comfortably clearing the ~20 MB hackathon threshold[cite: 1].
-* **Sub-Second Low Latency:** Complete inference cycle (recognition + liveness check) executes in **< 750ms**[cite: 1].
-* **Hardware Inclusivity:** Runs smoothly on standard mid-range mobile hardware (minimum 3GB RAM) without requiring specialized external GPUs[cite: 1].
-* **Demographic & Environmental Robustness:** Achieves **>95% accuracy** under harsh Indian outdoor lighting variables (overhead sunlight, deep shadows, low light)[cite: 1].
+* **Zero-Network Isolation:** 100% computational execution on-device.
+* **Ultra-Lightweight Footprint:** Entire engine compressed to **16.8 MB**, comfortably clearing the ~20 MB hackathon threshold.
+* **Sub-Second Low Latency:** Complete inference cycle (recognition + liveness check) executes in **< 750ms**.
+* **Hardware Inclusivity:** Runs smoothly on standard mid-range mobile hardware (minimum 3GB RAM) without requiring specialized external GPUs.
+* **Demographic & Environmental Robustness:** Achieves **>95% accuracy** under harsh Indian outdoor lighting variables (overhead sunlight, deep shadows, low light).
 
 ---
 
